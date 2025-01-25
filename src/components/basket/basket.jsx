@@ -17,7 +17,7 @@ const Basket = () => {
             <div className="flex flex-col gap-y-[20px] justify-center ">
               <img
                 className="w-[133px] h-[137px] "
-                src="https://storage.fabrikamaek.ru/images/0/3/3766/3766577/previews/people_1_man_trousers_front_black_500.jpg"
+                src=""
                 alt="no"
               />
               <div
